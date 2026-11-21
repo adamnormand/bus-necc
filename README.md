@@ -19,7 +19,7 @@ Rebuild of the Normand Consulting Group WordPress site on the Ohio creative-agen
 - Publications page links one article back to the WordPress site; migrate it if needed.
 
 ## Publish
-1. Settings → Pages → Deploy from branch → `main` / root. Preview at `https://adamnormand.github.io/ncg-ngrp/`.
+1. Settings → Pages → Deploy from branch → `main` / root. Preview at `https://adamnormand.github.io/bus-necc/`.
 2. When ready: add a `CNAME` file containing `normandgroup.com`, set the custom domain in Settings → Pages, then Enforce HTTPS.
 
 DNS:
