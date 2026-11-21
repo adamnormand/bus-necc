@@ -1,6 +1,6 @@
 # normandgroup.com — static site
 
-Agency-style rebuild (Ohio-theme inspired: bold type, red accent, numbered services, marquee, animated metrics) of the Normand Consulting Group WordPress site. Plain HTML/CSS, a few lines of JS, no build step.
+Rebuild of the Normand Consulting Group WordPress site on the Ohio creative-agency design system (Colabrio demo 4): fixed left rail with vertical logo, full-screen serif menu, "01 // SECTION" labels, two-column section heads, red accent words, stat cards, striped capability discs, platform marquee, light footer. Fonts: DM Serif Display + DM Sans. Plain HTML/CSS, a little JS, no build step.
 
 | File | Purpose |
 |---|---|
